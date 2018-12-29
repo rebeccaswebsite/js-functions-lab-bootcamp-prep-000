@@ -1,7 +1,6 @@
 // write your code below!
 let name = 'you';
 
-
 function happyHolidays () {
   return "Happy holidays!";
 }
