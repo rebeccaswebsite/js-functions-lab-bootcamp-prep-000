@@ -1,4 +1,5 @@
 // write your code below!
+let name = 'you';
 
 
 function happyHolidays () {
@@ -6,7 +7,6 @@ function happyHolidays () {
 }
 
 function happyHolidaysTo(name) {
-  var name = 'you';
   return "Happy holidays, ${name}!";
 }
 
