@@ -1,5 +1,7 @@
 // write your code below!
 let name = 'you';
+let holiday = 'Christmas';
+let day = '350';
 
 function happyHolidays () {
   return "Happy holidays!";
