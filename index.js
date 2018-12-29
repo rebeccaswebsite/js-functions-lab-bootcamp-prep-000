@@ -1,12 +1,12 @@
 // write your code below!
-let name = 'you' ; 
+var name = you;  
 
 function happyHolidays () {
   return "Happy holidays!";
 }
 
 function happyHolidaysTo() {
-  return "Happy holidays, ${name}";
+  return "Happy holidays, ${name}!";
 }
 
 function happyHolidayTo() {
